@@ -1,9 +1,6 @@
 
-Welcome to my project! This is a clean, lightweight web application disigned for discovering and  searching  movies. Here I’m collecting the best places for visiting.
-
-
-
-The application features a curated database of **9 iconic movies**, and users can find any film they want instantly by typing its title into the interactive search bar.
+Welcome to my project! This is a clean, lightweight web application disigned for discovering and  searching  movies. 
+Its application features a curated database of **9 iconic movies**, and users can find any film they want instantly by typing its title into the interactive search bar.
 
 ---
 
@@ -22,19 +19,6 @@ This project was built using core web technologies:
 
 ---
 
-## 🍿 Included Movies (Database)
-The search functionality natively supports the following **9 films**:
-* **Interstellar** — Sci-Fi / Drama
-* **Inception** — Action / Sci-Fi
-* **The Dark Knight** — Action / Crime
-* **Pulp Fiction** — Crime / Drama
-* **Fight Club** — Drama
-* **The Matrix** — Sci-Fi / Action
-* **Forrest Gump** — Romance / Drama
-* **The Shawshank Redemption** — Drama
-* **Spirited Away** — Animation / Fantasy
-
----
 
 ## 🚀 Quick Start
 To run this project locally on your machine:
